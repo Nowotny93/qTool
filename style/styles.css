@@ -1,0 +1,6 @@
+@import "welcome.css";
+@import './navigation.css';
+@import './login-register.css';
+@import './catalog.css';
+@import './user-profile.css';
+@import './search.css';

@@ -1,0 +1,16 @@
+{
+  "name": "qTool",
+  "version": "1.0.0",
+  "description": "qTool Single Page Application",
+  "main": "index.html",
+  "scripts": {
+    "test": "mocha tests",
+    "start": "http-server -a localhost -p 3000 -P http://localhost:3000?"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lit": "^2.3.1",
+    "page": "^1.11.6"
+  }
+}

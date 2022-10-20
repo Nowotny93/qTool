@@ -1,0 +1,18 @@
+#searchField {
+    border: none;
+    padding: 8px;
+    outline: none;
+    border-radius: 9px;
+}
+
+
+#searchBtn {
+    background: transparent;
+    border: 2px solid darkgray;
+    padding: 7px 22px;
+    text-transform: uppercase;
+    color: darkgray;
+    font-weight: bold;
+    margin: 0 15px;
+    cursor: pointer;
+}
